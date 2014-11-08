@@ -73,3 +73,7 @@ $RECYCLE.BIN/
 *.plg
 *.uvopt
 *.bak
+*.M51
+*.lnp
+project
+*.LST
